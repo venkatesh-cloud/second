@@ -1,7 +1,7 @@
 class School
 	{ 
 		String stu_id="FE839";
-	    int stu_fee=25000;
+	    int stu_fee=26000;
 		 void display()
 		{
 			System.out.println("The id of the person is "+stu_id+" and fee is "+stu_fee);
