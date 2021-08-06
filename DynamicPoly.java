@@ -1,6 +1,6 @@
 class School
 	{ 
-		String stu_id="FE839";
+		String stu_id="FE889";
 	    int stu_fee=26000;
 		 void display()
 		{
